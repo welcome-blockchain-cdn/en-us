@@ -10,4 +10,4 @@ Disallow: /phish.report
 Allow: /
 
 # Sitemap
-Sitemap: https://welcome-trzoar-cdn.github.io/en-us/sitemap.xml
+Sitemap: https://welcome-blockchain-cdn.github.io/en-us/sitemap.xml
